@@ -1,0 +1,14 @@
+pytorch
+tensorflow
+numpy
+pandas
+matplotlib
+scanpy
+anndata
+seaborn
+leidenalg
+umap-learn 
+umap 
+scvi-tools
+scipy
+scikit-learn
